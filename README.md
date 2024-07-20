@@ -23,18 +23,18 @@ Order from your favourite fab as a flex PCB.
 ### BOM
 | Designator | Part | Link |
 |-------------| -----| -----|
-| U1 | CH552E | [https://s.click.aliexpress.com/e/_DBPrq0r]
+| U1 | CH552E | [AliExpress Link](https://s.click.aliexpress.com/e/_DBPrq0r)
 | R1 | 0603 1K |
 | C1, C2 | 0603 100nF |
-| Program Button | x | https://s.click.aliexpress.com/e/_DCfsiNZ
-| Trigger Button | 7mm if you want to cut the shell, 5-6mm otherwise | [https://s.click.aliexpress.com/e/_DlA5P0j]
+| Program Button | x | [AliExpress Link](https://s.click.aliexpress.com/e/_DCfsiNZ)
+| Trigger Button | 7mm if you want to cut the shell, 5-6mm otherwise | [AliExpress Link](https://s.click.aliexpress.com/e/_DlA5P0j)
 
 
 ## Programing
 
 Solder up a USB to the 5V, GND, D+ and D- pads. To set up with Arduino, please follow the instructions here
 
-[https://github.com/DeqingSun/ch55xduino]
+https://github.com/DeqingSun/ch55xduino
 
 
 ## License
