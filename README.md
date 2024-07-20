@@ -1,5 +1,11 @@
 # GameBoy Color Turbo 
 
+
+
+https://github.com/user-attachments/assets/9c1e9254-65e6-4811-b10f-9467ac8f224d
+
+
+
 aka Rain's Turbo (made for Rain)
 
 This flex PCB is made for a GBC PCB to add a turbo button mode to the B button. You could rework the PCB to make it work on any other button. This one was made with Metroid II in mind.
